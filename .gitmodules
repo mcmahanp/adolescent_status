@@ -1,0 +1,3 @@
+[submodule "OrderEstimator"]
+	path = OrderEstimator
+	url = https://github.com/mcmahanp/OrderEstimator.git
